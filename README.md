@@ -2,4 +2,4 @@
 
 ## Requirements:
 - Pixel perfect
-- Work in last version of Chrome
+- Works in last version of Chrome
